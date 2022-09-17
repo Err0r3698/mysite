@@ -1,0 +1,38 @@
+body{
+  margin: auto;
+}
+h1{
+  display: inline;
+  font-family: 'Playfair Display SC', serif;
+  padding: 20px;
+}
+h1:hover{
+  color: #B7C4CF;
+  border-radius: 30%;
+}
+.searchimg{
+  display: inline-block;
+  margin-left: 40%;
+}
+.middleimg{
+  width: 110%;
+}
+.search{
+  display: inline-block;
+}
+
+.header{
+  width: 100%;
+  background-color: #FEFBF6;
+  padding: 30px;
+}
+/*.middle-con{
+  width: 500px;
+  background-color: green;
+}
+.bottom-con{
+  width: 500px;
+  height: 100px;
+  background-color: orange;
+}
+*/
